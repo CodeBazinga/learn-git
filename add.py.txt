@@ -6,3 +6,7 @@ def add(a,b):
 # changes by devB
 def prod(a,b):
     print(a*b)
+
+# changes by devA
+def subtract(a,b):
+    print(b-a)
