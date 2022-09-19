@@ -2,3 +2,7 @@
 
 def add(a,b):
     print(a+b)
+
+# changes by devB
+def prod(a,b):
+    print(a*b)
